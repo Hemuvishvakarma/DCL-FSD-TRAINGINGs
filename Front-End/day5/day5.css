@@ -1,0 +1,17 @@
+/* h1{
+text-align: center;
+text-decoration:wavy;
+text-transform: capitalize;
+/* font */
+/* font-family: 'Courier New', Courier, monospace;
+font-size: 50px;
+color: #419a5a;
+} */ 
+#heading1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: #13673d;
+    background-color: #5fb2e2;
+}

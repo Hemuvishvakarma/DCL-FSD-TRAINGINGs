@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+}
+#para{
+    width: 50%;
+    text-align: justify;
+}
+#Portfolio-head{
+    background-color: rgba(255, 166, 0, 0.6);
+    width: 50%;
+    text-align: center;
+}
+#span1{
+    color:orange;
+    text-decoration: underline;
+}
+#para2{
+    width: 50%;
+    text-align: justify;
+}

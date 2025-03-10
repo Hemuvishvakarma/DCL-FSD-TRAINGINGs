@@ -1,0 +1,33 @@
+.heading{
+    color: black;
+    border-width: 2px;
+    border-color: brown;
+    border-style:solid ;
+/* width: fit-content; */
+text-align: center;
+}
+
+#img1{
+    height: 200px;
+    border: 20px solid blue;
+}
+#img2{
+    height: 150px;
+    width: 150px;
+     border-top: 20px;
+     border: 20px solid blue;
+     border-radius: 100%;
+}
+
+#name{
+   color: brown;
+} 
+input{
+    color: red;
+}
+h1{
+  border: 30px solid mediumvioletred;
+    border-width: 30px;
+   width: fit-content;
+   padding: 20px 20px 20px 20px;
+}

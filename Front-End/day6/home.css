@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(255, 0, 0, 0.656);
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar {
+
+    .portfolio{
+       
+            #logo{
+                font-size: 50px;
+                margin-left: 100px;
+            }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    .card1 {
+        color: white;
+        background-color: rgba(255, 0, 255, 0.373);
+        border: 1px solid blue;
+        width:20%;
+        border-radius: 30px;
+        padding: 20px;
+        margin-left: 200px;
+        
+
+        h2{
+            text-align: center;
+            text-transform: capitalize;
+            text-decoration: underline;
+        }
+        img {
+            width: 150px;
+            height: 150px;
+        }
+
+        p{
+            text-align: justify;
+            font-weight: bold;
+        }
+
+        h3 {
+            text-align: center;
+            text-transform: capitalize;
+        }
+    }

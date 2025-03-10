@@ -1,0 +1,26 @@
+.heading{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.Second-head{
+    color: orange;
+    text-align: center;
+}
+
+.image1{
+    height: 8%;
+    width: 100%;
+}
+.div-1{
+    background-color: black;
+    color: aqua;
+}
+img{
+    height: 450px;
+    width: 50%;
+}
+.div2{
+    color: rgba(6, 4, 44, 0.903);
+    background-color: rgb(41, 168, 168);
+}
